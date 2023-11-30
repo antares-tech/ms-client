@@ -1,0 +1,9 @@
+{
+    "name": "@antares-tech/ms-client",
+    "version": "0.0.1",
+    "description": "Antares Tech Media Server Client",
+    "author": "Antares Tech",
+    "license": "Antares Tech",
+    "dependencies": {
+    }
+}
