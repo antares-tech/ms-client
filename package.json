@@ -1,9 +1,17 @@
 {
     "name": "@antares-tech/ms-client",
-    "version": "0.0.1",
-    "description": "Antares Tech Media Server Client",
+    "version": "0.0.2",
+    "description": "Antares Tech Media Server Client Library",
     "author": "Antares Tech",
     "license": "Antares Tech",
+	"repository": "antares-tech/ms-client",
     "dependencies": {
-    }
+    },
+	"main": "index.js",
+	"keywords": {
+		"Antares Tech",
+		"antares-tech",
+		"media server",
+		"client library"
+	}
 }
