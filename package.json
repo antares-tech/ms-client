@@ -8,10 +8,10 @@
     "dependencies": {
     },
 	"main": "index.js",
-	"keywords": {
+	"keywords": [
 		"Antares Tech",
 		"antares-tech",
 		"media server",
 		"client library"
-	}
+	]
 }
