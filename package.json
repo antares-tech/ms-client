@@ -1,17 +1,19 @@
 {
     "name": "@antares-tech/ms-client",
-    "version": "0.0.5",
+    "version": "0.0.8",
     "description": "Antares Tech Media Server Client Library",
     "author": "Antares Tech",
     "license": "Antares Tech",
-	"repository": "antares-tech/ms-client",
+    "repository": "antares-tech/ms-client",
     "dependencies": {
+        "eventemitter2": "^6.4.9",
+        "mediasoup-client": "^3.7.0"
     },
-	"main": "index.js",
-	"keywords": [
-		"Antares Tech",
-		"antares-tech",
-		"media server",
-		"client library"
-	]
+    "main": "index.js",
+    "keywords": [
+        "Antares Tech",
+        "antares-tech",
+        "media server",
+        "client library"
+    ]
 }
